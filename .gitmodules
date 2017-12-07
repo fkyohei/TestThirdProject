@@ -1,0 +1,3 @@
+[submodule "SubModule"]
+	path = SubModule
+	url = https://fkyohei@github.com/fkyohei/TestSubProject.git
