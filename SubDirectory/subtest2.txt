@@ -10,3 +10,5 @@ TestMainProject内でテスト用のブランチからファイルを追加
 
 チェック
 MainとModuleの両方を変更
+
+conflictチェック
